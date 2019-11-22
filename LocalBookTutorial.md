@@ -30,3 +30,7 @@
 
 ![showcase1](art/showcase1.jpg)
 ![showcase2](art/showcase2.jpg)
+
+## 资源推荐
+
+[http://www.52wuai.com](http://www.52wuai.com)
