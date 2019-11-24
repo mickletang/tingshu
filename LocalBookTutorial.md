@@ -6,7 +6,7 @@
 
 以下是群友推荐的下载站：[http://www.52wuai.com](http://www.52wuai.com)
 
-群友制作的视频教程: [点击播放](art/local_book_tutorial.mp4)
+群友制作的视频教程: [点击下载](https://github.com/eprendre/tingshu/raw/master/art/local_book_tutorial.mp4)
 
 ## 目录结构
 
