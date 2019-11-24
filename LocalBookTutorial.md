@@ -1,7 +1,18 @@
 # 本地书库
 
-本地书库要求目录要分三级，一级根目录，二级分类目录，最下面一级才是书籍目录。
+## 前言
+
+本地书库是播放音频用的，而不是帮你读txt文本的工具。音频资源需要自行去获取。
+
+以下是群友推荐的下载站：[http://www.52wuai.com](http://www.52wuai.com)
+
+群友制作的视频教程: [点击播放](art/local_book_tutorial.mp4)
+
+## 目录结构
+
+本地书库要求目录分三级，根目录，分类目录，最后才是书籍目录。
 如图所示：
+
 ![example](art/local_book.jpg)
 
 ## 作者和播音
@@ -30,7 +41,3 @@
 
 ![showcase1](art/showcase1.jpg)
 ![showcase2](art/showcase2.jpg)
-
-## 资源推荐
-
-[http://www.52wuai.com](http://www.52wuai.com)
