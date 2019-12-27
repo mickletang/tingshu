@@ -44,6 +44,3 @@ bug反馈或者功能建议可加 QQ 群：470339586
 
 ## 支持
 
-微信赞赏码 | 支付宝收款码
----------|---------
-![wechat](art/support_wechat.png) | ![alipay](art/support_alipay.jpg)
